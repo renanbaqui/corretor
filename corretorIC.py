@@ -51,7 +51,44 @@ misspelled = spell.unknown(lista)   #utiliza o metodo unknown do objeto spell pa
 #print (spell.known(misspelled))    # Returns those words that are in the word frequency list
 #print (spell.unknown(misspelled))  # Returns those words that are not in the frequency list
 
+# listas de abreviacoes e significados no mesmo indice do array
+abreviacoes = [cv, mp, bpm]
+significados = [Comando Vermelho, Ministério Público, Batalhão da Polícia Militar]
 
 for word in lista:
+    if word in abreviacoes:
+        word = significados[abreviacoes.index(word)]
+        f.write(word)
+        f.write(" ")
+    else:            
     f.write(spell.correction(word))
     f.write(" ")
+    
+# eliminacao de repeticoes    
+lista = ["muuuuuito", "gosto", "demaaaaais"]
+
+repeticoes = ["aaa", "eee", "iii", "ooo", "uuu"]
+
+for word in lista:
+    for i in repeticoes:
+        if i in word:
+            print("achei")
+        else:
+            print('achei nada')
+
+
+# eliminacao de repeticoes 2
+lista = ["muuuuuito", "gosto", "demaaaaais"]
+s = ''.join(sorted(set(lista[0]), key=lista[0].index))
+print(s)
+repeticoes = ["aaa", "eee", "iii", "ooo", "uuu"]
+
+for word in lista:
+    for i in repeticoes:
+        if i in word:
+            lista[lista.index(word)] = ''.join(sorted(set(word), key=word.index))
+        else:
+            print('achei nada')
+            
+
+print(lista)            
