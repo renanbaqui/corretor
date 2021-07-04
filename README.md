@@ -1,1 +1,1 @@
-# Tokenizacao e Correcao Ortografica utilizando pyspellchecker (Norvig)
+# Tokenizacao e Correcao Ortografica de Português Brasileiro Coloquial utilizando pyspellchecker (Norvig)
