@@ -1,0 +1,932 @@
+Adamo
+AC2000
+CRX
+GT
+GT-2
+GTL
+GTM
+GTM C2
+
+Agrale
+Marruá
+
+Aldee
+GT 1.8 Street 
+Spyder
+
+Alfa Romeo
+Alfa Romeo 2000 
+2300 
+2300 Ex. 
+2300 B
+2300 Ti
+2300 Rio 
+2300 SL
+2300 Ti 4 
+2300 Álcool Ti 
+145
+155
+164
+156
+147
+166
+GTV & Spider
+
+Americar
+XKCoupe 
+XK120
+Cobra
+GT40
+
+Avallone
+A 11 Avallone 
+TF 6R 
+Fusca Cabriolet 
+Limosine Monza 
+A 52 
+Avallone Presidencial 
+
+Audi
+A3 
+A3 Sedan 
+Q3 
+TT
+A1
+R8
+A4 
+A5
+A6
+A7
+Q5
+Q7
+Senna
+
+Aurora
+122 C 
+
+Bianco
+Bianco S 
+Bianco Série 2
+Bianco Tarpan 
+Bianco Tarpan TS 
+
+BMW
+Série 1
+Série 3
+X1 
+X3 
+X4 
+Z3
+Z4
+Série 2
+Série 4
+Série 5
+Série 7
+Série 8
+X2
+X5
+X6
+M2 Competition
+M3 Sedã
+M4 Coupé
+M5
+X6M
+i3
+
+Bola
+Fera XK 
+
+Brasinca
+4200 GT
+4200 GTS
+
+CBP
+Super 90 
+Spyder 550
+911 Carrera 
+911 Carrera 
+911 Carrera conversível
+MG MGA 
+EJ 1 
+Formigão
+
+CBT
+CBT Javali 4x2
+CBT Javali 4x4 
+CBT Javali 4x4 (turbo)
+
+Chamonix
+Roadster 356
+Speedster 356
+Spyder 550 R
+Spyder 550 S
+Spyder 550 S L.M.
+Super 90
+
+Chery
+Arrizzo 5
+Celer
+QQ 
+Tiggo 2 
+Tiggo 7 
+Face 
+Cielo 
+Arrizo 5E
+
+Chevrolet
+3100/Brasil 
+A-10
+A-20 
+Alvorada 
+Amazona 
+Astra 
+Beretta
+Blazer 
+Bonanza 
+Bolt 
+C-10 
+C-14 
+C-1416 
+C-15 
+C-20 
+Camaro 
+Caravan 
+Celta 
+Chevette Hatch 
+Chevette 
+Chevette Junior
+Chevy 500 
+Cobalt 
+Corisco
+Corsa 
+Corsa Sedan / Classic 
+Corsa Pick-up 
+Corsa Wagon 
+Cruze 
+Cruze Sport6 
+D-10 
+D-20 
+Ipanema 
+Kadett 
+Kadett Conversível 
+Marajó 
+Meriva 
+Montana 
+Monza Sedan
+Monza Hatch
+Omega
+Onix
+Opala Coupe
+Opala
+Prisma
+Silverado
+S10
+Spin
+Suprema
+TrailBlazer
+Vectra
+Vectra GT
+Veraneio 
+Volt
+Zafira
+Equinox
+SS10
+Caprice
+Malibu 2010-2012
+
+Chrysler
+Dodge
+1800
+Charger
+Dakota 1998-2002
+Dart Sedã 1969-1981[25]
+Dart Coupe 1970-1981
+LeBaron 1979-1980
+Magnum 1979-1981
+Polara 1976-1981
+Journey 2009- presente
+Durango
+Town & Country
+300
+PT Cruiser
+Caravan/Grand Caravan 1996 - 2005
+Stratus
+
+Citroën
+Aircross 2010-presente[2]
+C3 2003-presente[2]
+C4 Cactus 2018-presente
+Xsara Picasso 2001-2012
+DS3
+Xantia (importado da França)
+C5 2001 (Importado da França)
+C4 Pallas 2007 - 2013
+C4 Lounge 2013 - presente
+DS5
+C3 Picasso 2012 - 2017
+XM 1995
+ZX 1992-1997
+
+Concorde
+Concorde 1976-2003[26]
+
+Corona
+Dardo F 1.3 1979-1983[27]
+Dardo F 1.5
+
+Cross Lander
+CL-244 2002-2005
+CL-330 2002-2005
+
+Daewoo
+Espero 1994 - 2000
+Nubira
+Lanos
+Leganza
+Super Salon
+Tico
+Prince
+
+Daihatsu
+Cuore
+Applause
+Terios
+Feroza
+
+Dankar
+Squalo[28] 1979-?
+Julia[28] 1981-1984
+
+DKW-Vemag
+Belcar 1958-1967[29]
+Caiçara 1963-1965[30]
+Camioneta 1958-?
+Candango 1958-1963
+F-91 Universal 1956-1958
+Fissore 1964-1967
+Grande 1958-1967
+Pracinha 1966-1967
+Vemaguet 1958-1967
+
+Edra
+Rancho PK[31]
+Rancho TT 1990-?
+GT e GT-R 2003-?
+Mog 2005-?
+Aris 2009-?
+
+Emis
+Art 1986-1987[32]
+
+Engerauto
+Topazzio 1988-1989[33]
+
+Engesa
+EE-12 1984-1984
+EE-34[34]
+4 1985-1987
+
+Envemo
+Camper 1989-1995
+Super 90 1980-?
+Super 90 Cabriolet 1981-?
+
+Envesa
+Envesa 4[35] ?
+Effa
+Effa M100
+
+Farus
+ML-929 1978-?[36]
+TS 1982-?
+Beta 1984-?
+Beta Cabriolet 1985-?
+Quadro 1989-1990
+
+Fiat
+147 1976-1986[37]
+Argo 2017-presente
+Brava 1999-2003
+Bravo 2010-2016[2]
+City
+Doblò 2001- presente [2]
+Ducato 1998-presente
+Elba 1986-1996
+Fiorino 1979-presente
+Idea 2005-2016[2]
+Linea 2008-2016[2]
+Marea 1998-2007
+Marea Weekend 1998-2007
+Mobi 2016-presente
+Oggi 1983-1985[38]
+Palio 1996-2018[2]
+Weekend/Palio Weekend 1997-2020 [2]
+Panorama 1980-1986[39]
+Prêmio 1985-1995
+Punto 2007-2017[2]
+Siena/Grand Siena 1998-presente[2]
+Spazio 1983-1984
+Stilo 2002-2010
+Strada 1998-presente[2]
+Tempra 1991-1999
+Tipo 1993-1997
+Toro 2016-presente
+Uno/Mille 1984-presente[2]
+Coupé 1995-1996
+500 2007-2018
+
+FNM
+2000 JK 1960-1968
+2150 JK 1968-1973[40]
+Onça 1966-1967[41]
+Fúria GT 1971[42][43]
+
+Ford
+Belina 1970-1977
+Belina II 1977-1991
+Corcel 1968-1977
+Corcel II 1977-1986
+Courier 1997-2013[2]
+Courier Van
+Del Rey 1981-1991
+Del Rey Scala 1984-1986
+EcoSport 2003-presente[2]
+Escort 1983-2003[44]
+Escort SW 1997-2003[45]
+Escort conversível 1985-1995
+F-100 1957-1984[46]
+F-1000 1979-1999[47]
+F-250 1999-2011
+F-75 1972-1983[48] (ver Willys Overland)
+Fiesta 1996-2019[2]
+Focus 2000-2019
+Jeep 1972-1983 (ver Willys Overland)
+Galaxie 500 1967-1979[49]
+Galaxie 1970-1972[49]
+Ka 1997-2021[2][50]
+Ka+ 2014-2021[2][51]
+LTD 1969-1970 - voltou a ser produzido 1976-1982[49]
+LTD Landau/Landau 1971-1983[49]
+Maverick 1973-1979
+Mustang 2018- presente
+Mondeo 1995-2006
+Pampa 1982-1997
+Ranger 1994- presente
+Royale 1992-1996
+Rural 1972-1977[48] (ver Willys Overland)
+Verona 1989-1996
+Versailles 1991-1996
+Fusion 2006-2020
+Edge 2009- presente
+Taurus 1994-2000
+Crown Victoria
+
+Furglass
+Furglaine 1980- 1994
+
+Geely
+EC7 ? - ?
+GC2 ? - ?
+
+Glaspac
+Cobra 1982-1987
+
+GMC
+3500 HD 1997-2001
+
+Grancar
+Futura 1990-1991[52]
+
+Gurgel
+Ipanema (nas versões picape e QT) 1969-1971[53]
+Bugato 1970-1971[53]
+Xavante XT 1971-1975[53]
+Xavante XTR 1971-1975[53]
+Xavante XTC 1974-1975[53]
+X-10 1975-1977[53]
+X-20 1976-1979[53]
+X-12 1975-1988[53]
+Tocantins 1988-1991[54]
+X-15 1979-1982[53]
+G-15 1979-1982[53]
+Itaipu E-150[53]
+Itaipu E-400 1981-1982[53]
+Itaipu E-500 1981-1982[53]
+G-800 1982-1988[53]
+XEF 1983-1986[53]
+Carajás 1984-1989[53][55]
+BR-800 1988-1991[53][56]
+BR-800 Van
+Motomachine 1990-1992[53]
+Supermini 1992-1995[53]
+
+Hofstetter
+Hofstetter 1986-1993[57]
+
+Honda
+Accord 1994- presente
+City 2009-presente[2]
+Civic 1992-presente[2]
+Fit 2003-presente[2]
+CR-V 1996-presente
+HR-V 2015-presente
+WR-V 2017-presente
+NSX
+
+Hummer
+H1
+H2
+H3
+
+Hyundai
+Creta 2016-presente
+HB20 2012-presente
+HB20S 2012-presente
+HB20X 2012-presente
+ix20 2010-presente
+ix35 2011-presente
+Tucson 2005-presente
+Azera 2007- presente
+Veloster 2011-2014
+Santa Fe 2007- presente
+Veracruz
+Genesis
+Elantra 2011- 2020
+Equus
+Sonata 2011-2014
+
+IBAP
+Democrata[58]
+
+Inbrave
+Swing 1981-?
+
+Infiniti
+FX35
+QX56
+FX50
+J30
+
+Ita
+Lassale[59]
+
+JAC
+T5 2018-presente
+T40 2018-presente
+JAC J3 2011- 2018
+JAC J3 Turin 2011- 2018
+JAC J6 2011- 2018
+JAC J5 2012- 2018
+JAC J2 2010- 2018
+iEV 20
+iEV 60
+iEV 40
+T80
+T50
+T60
+T6
+
+Jaguar
+S-Type
+F -Pace
+
+Jeep
+Compass 2016-presente
+Renegade 2015-presente[60]
+Cherokee
+Grand Cherokee
+Wrangler
+
+JPX
+Montez 1992-2001
+Montez pick-up 1995-2001
+
+Kia[61]
+Kia Picanto ou Kia Morning 2008 - presente
+Kia Cadenza ou Kia K7
+Kia Cerato ou Kia Forte ? - Atualmente
+Kia Cerato Koup ou Kia Koup ou Kia Forte Koup
+Kia Sportage
+Kia Carens ou Kia Rondo ? - ?
+Kia Sorento
+Kia Carnival ou Kia Sedona 2015 - presente
+Kia Bongo ? - presente
+Kia Mohave ou Kia Borrego
+Kia Soul 2013 - ?
+Kia Optima ?
+Kia Quoris ?
+Kia Stinger 2018-presente
+Kia Rio
+
+Lada
+VAZ- 2105 (Laika) 1990- 1997
+VAZ- 2104 (Laika Station Wagon) 1990- 1997
+VAZ- 2108 (Samara) 1990- 1997
+VAZ- 2121 (Niva) 1990- 1997
+
+L'Automobile/L'Auto Craft
+Ventura 1978-?
+Ventura conversível ?-?
+Ventura II 1988-?
+Sabre 1990-1997
+
+Lafer
+MP TD 1974-1990
+MP LL 1976-1979
+MP TI 1978-1990
+MP TX 1986-1990
+
+Land Rover
+Range Rover Evoque 2016-presente
+Range Rover
+Range Rover Sport
+Defender
+Vogue
+Autobiography
+Range Rover Velar
+Discovery
+
+Lexus
+ES
+LS
+UX
+NX
+RX
+CT
+LC
+NX 300h
+
+LHM
+Phoenix 1985-?[62]
+Ítala 1987-?
+
+Lifan
+X60
+320
+530
+X80
+
+Lincoln
+Continental
+Town Car
+
+Lobini
+H1 1999-presente
+R 2007-2010
+
+Lorena
+Lorena GT 1968-?[63]
+Lorena RM 1972-?
+Lorena GT-L 2010-?
+
+Macan
+Gurgel 1200 (nas versões Ipanema, Enseada, Augusta e Xavante) 1966-1969[64]
+
+Mahindra
+M.O.V. 2012-2015
+Pick-up 2007-2015
+Scorpio  2007-2009
+SUV 2009-2011
+
+Malzoni
+Malzoni I
+Malzoni II
+Malzoni III
+GT Malzoni 1964-1966
+GT Malzoni II (Malzoni GTM) 1976-1978
+GT Malzoni II (Malzoni GTM) conversível 1976-1978
+
+Matra Veículos
+Matra Pick-up 2002-2004
+
+Mazda
+626
+Protegè
+MX-3
+MX-5
+
+Megastar Veículos
+Emme 1997-1999[65][66]
+
+Mercedes-Benz
+Classe A 1999-2005
+Classe C 2016-presente
+CLC 200 2008-2010
+GLA 2016-presente
+CLA
+Classe E
+Classe S
+GLC
+GLE
+GLS
+SLC
+Classe G
+SLK
+Classe GLK
+Classe CLK
+Classe M
+
+MG
+MG550
+MG6
+
+Mini
+Countryman 2015-presente
+Cooper
+
+Mirage
+Mirage GT
+
+Mitsubishi
+ASX 2013-presente
+L200 1991-presente
+Lancer 2014-2019 [67]
+Pajero TR4 2007-2015
+Pajero 1997-presente
+Eclipse
+Outlander 2001- presente
+Eclipse Cross 2018- presente
+
+Miura
+Sport 1977-1979
+Sport II 1980-1983
+MTS 1981-?[68]
+Targa 1982-1988
+Spider 1983-1988
+Kabrio 1984-1985[69]
+Saga 1984-1988[70]
+787 1986-1990
+X8 1987-1990
+Saga II 1988-1992
+Top Sport 1989-1992
+X11 1990-1992
+BG-Truck CD 1993-1997
+
+Monarca
+Monarca 1954 ou 1955[71]
+
+NBM
+Jornada 1984-1988[72]
+Spirit 1986-1988[72]
+
+Nissan
+Frontier 1990- presente[2]
+Grand Livina 2010-2014
+Kicks 2016-presente
+Livina 2007-2014[2]
+March 2011-presente
+Sentra 2007-presente
+Versa 2013-presente
+Leaf 2010- presente
+Tiida 2004-2014
+
+Nobre
+Alpini G 59 Grand Prix[73]
+
+PAG/Dacon
+828
+Nick 1988-1991
+
+Peugeot
+206 2001-2008
+504 Pickup Diesel 1992-1999
+206 SW 2005-2008
+207 2008-2014[2]
+207 Passion 2008-2014
+207 SW 2008-2012
+208 2013-presente
+2008 2015-presente
+Hoggar 2010-2014
+408 2011-2018
+3008 2009- presente
+5008 2009- presente
+307 2003-2012
+405 1992-1998
+205 1992-1998
+106 1993-2002
+306 1994-2002
+406 1998-2005
+407 2006-2010
+RCZ 2011-2016
+2008 2015-Presente
+
+Polystilo
+WM II[74] 1982-?
+Savana[74] 1983-1986
+
+Puma
+GT (DKW) 1967 (VW) 1968-1970
+GT4R 1969-1970
+Puma P8 1971
+Puma Spyder 1971-1972
+GTE 1970-1980
+GTS 1973-1980
+GTB 1974-1979
+GTB S2 1979-1987
+GTB S3 1984-1984
+GTB S4 1984-1984
+P-018 1981-1987[75]
+GTC 1981-1986
+GTI 1981-1987
+AM1 1988-1990
+AM2 1988-1990
+AM3 1989-1991
+AM4 1989-1995
+AMV 1988-1991
+Puma 7900 (Caminhão)
+
+Py Motors
+Equus[74]
+
+Ragge
+Califórnia 1989[76]
+
+Renault
+Captur 2017-presente
+Clio 1996-2016
+Clio Sedan 2000-2005
+Duster 2011-presente[2]
+Duster Oroch 2015-presente
+Kwid 2017-presente
+Logan 2007-presente[2]
+Mégane Grand Tour 2006-2012
+Mégane Sedan 1998-2010
+Sandero 2007-presente[2]
+Scénic 1998-2010
+Fluence 2010- 2018
+Symbol 2009-2013
+19 1993-1998
+Twingo
+Zoe 2018- presente
+Twizy
+
+Romi
+Isetta 1956-1961
+
+Saab
+9000 1990- 1991
+
+Simca
+Alvorada 1963
+Chambord 1959
+Emi-Sul 1966
+Esplanada 1967-1969[77]
+GTX 1969[78]
+Jangada 1962
+Presidence 1963
+Rally 1962
+Regente 1968
+Tufão 1964
+
+Santa Matilde
+SM Hatch 1977[79]-1983[80]
+SM Conversível 1983-1990[81]
+SM Coupé 1983-1997[82]
+
+San Vito
+
+SEAT
+Córdoba 1995-2002
+Ibiza 1995-2002
+Inca 1995-2002
+Vario 1995-2002
+
+Smart
+Fortwo 2011 - presente
+
+STV
+Uirapuru berlineta[83] 1965-1967
+Uirapuru cabriolet[83] 1966-1967
+
+Spiller Mattei
+Gringo[84]
+
+SR Veículos Especiais
+Ibiza[85]
+Max Sport[85]
+Max Sport 2[85]
+Deserter 2[85]
+Deserter Rally[85]
+Deserter XK[85]
+Country XK[85]
+
+Subaru
+Impreza
+Forester
+WRX
+Outback
+XV
+Legacy
+
+Suzuki
+Jimny 2012-presente
+Grand Vitara 1997- 2015
+Vitara 1997- presente
+Suzuki SX4 S-Cross 2013- presente
+
+SsangYong
+XLV
+Tivoli
+Actyon
+Actyon Sports
+Korando
+Kyron
+Rexton
+
+TAC Motors
+Stark 2009
+Tanger
+Lucena
+
+Toyota
+Bandeirante 1962-2001[86]
+Camry 1980- presente
+Corolla 1998-presente[87]
+Etios 2012-presente
+Fielder 2004-2008[88]
+Hilux 1968- presente
+Prius 1997- presente
+RAV4 1994- presente
+SW4 1997- presente
+Yaris 2018-presente
+Previa 1992
+
+Trimax
+Audax 2010-?[89]
+
+Troller
+Pantanal 2006-2008
+T4 1999-presente
+
+Villa
+Villa GT[90]
+
+Volvo
+XC40
+XC60
+XC90
+V40
+V60
+S60
+S90
+850
+C30
+V50
+XC70
+V50
+C70
+
+Volkswagen
+1600 1968-1971
+Apollo 1990-1992
+Amarok 2010-presente
+Brasília 1973-1982
+Fox 2003-presente[2]
+Fusca 1959-1986 / 1993-1996[91]
+Gol 1980-presente[2]
+Golf 1995-presente[2]
+Jetta 2006-presente
+Karmann Ghia 1962-1971[92]
+Karmann Ghia Cabriolet 1967-1971[93]
+Karmann Ghia TC 1970-1975[94]
+Kombi 1957-2013
+Logus 1993-1997
+Parati 1982-2012
+Passat 1974-1989
+Pointer 1994-1996
+Polo 2002-2014 / 2017-presente[2]
+Polo Classic 1997-2002[2]
+Polo Sedan 2002- 2014
+Quantum 1985-2001
+Santana 1984-2006
+Saveiro 1982-presente[2]
+SP1 1972-1973[95]
+SP2 1972-1976[96]
+TL 1970-1976
+Up! 2014-2021[97]
+Variant 1969-1977
+Variant II 1978-1981
+Virtus 2018- presente
+Voyage 1981-1996 / 2008- presente[2]
+Bora 1999- 2011
+T-Cross 2019- presente
+Tiguan 2009- presente
+Touareg 2002- 2019
+
+WMV
+WMV[74] 1978-?
+
+Willys Overland
+1093 1964-1965
+Aero 1960-1971
+Dauphine 1959-1966
+Gordini 1962-1968
+Interlagos 1961-1966
+Itamaraty 1966-1971
+Itamaraty Executivo 1967-1969
+Jeep CJ-5 1957-1971 (ver Ford)
+Jeep CJ-6 1957-1966
+Jeep pick-up 1958-1971[48] (ver Ford)
+Rural 1958-1971[48] (ver Ford)
+Teimoso 1964-1966[98]
+Capeta
