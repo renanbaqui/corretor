@@ -47,13 +47,21 @@ spell.word_frequency.load_words(['mp', 'fb', 'jr', 'hd', 'já', 'Várias', 'vár
 
 import csv
 
-with open('internetes.txt', encoding='utf-8-sig') as arq_csv:
+with open('internetes.txt', encoding='utf-8-sig') as arq_csv:   # verificar se o arquivo .txt esta sem espacos em branco!
     table = csv.reader(arq_csv, delimiter=',')  # lendo a tabela
 
     abr = {}  # Criando dicionário
 
     for row in table:  # Iterando sobre ele
         abr[row[0]] = row[1]
+        
+with open('seguranca.txt', encoding='utf-8-sig') as arq_csv2:   # verificar se o arquivo .txt esta sem espacos em branco!
+    table2 = csv.reader(arq_csv2, delimiter=',')  # lendo a tabela    
+    
+    abr = {}  # Criando dicionário    
+    
+    for row in table2:  # Iterando sobre ele
+        abr[row[0]] = row[1]        
 
 
 repeticoes = ["aaa", "eee", "iii", "ooo", "uuu"] # lista para eliminacao de repeticoes de letras
