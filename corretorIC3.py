@@ -122,10 +122,19 @@ for word in lista:
 #print (spell.known(misspelled))    # Returns those words that are in the word frequency list
 #print (spell.unknown(misspelled))  # Returns those words that are not in the frequency list
 
+listaMaiusculas = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+
+palavrasMaiusculas = []
+
 for word in lista:
     if word in abr.keys(): # transforma as abreviacoes da lista em seu significado        
         f.write(abr[word])
         f.write(" ")
+    
+    if word[0] in listaMaiusculas:
+        palavrasMaiusculas.append(word)    
+    
     else:
         f.write(spell.correction(word))
-        f.write(" ") 
+        f.write(" ")
+print(palavrasMaiusculas)
