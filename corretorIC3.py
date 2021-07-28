@@ -41,8 +41,44 @@ lista = tokenizer.tokenize(str2)        #string tokenizado em lista
 
 print(lista)    #imprime a lista para debug
 
+
+with open('automoveis.txt', 'r', encoding='utf-8') as text_file:   #abre o arquivo com encoding utf-8
+    str = text_file.read()  #transforma o texto em string
+
+#f = open("erros.txt", "w")
+
+#print(str)
+
+#divide o string 'lista' em um sub-string com os numeros separados
+substring = []
+char = ""
+num = ""
+for letter in str:
+    if letter.isdigit():
+        if char:
+            substring.append(char)
+            char = ""
+        num += letter
+    else:
+        if num:
+            substring.append(num)
+            num = ""
+        char += letter
+substring.append(char) if char else substring.append(num)
+#print(substring)   #imprime o string com substrings gerado para debug
+
+str2 = ' '.join(substring)   #transforma a lista substring em string str2
+
+listaAuto = tokenizer.tokenize(str2)        #string tokenizado em lista
+
+print(listaAuto)
+
+
 #unknown = flat_list
 spell = SpellChecker(language='pt')     #cria objeto do tipo SpellChecker em portugues
+
+#adiciona nomes próprios ao dicionario
+spell.word_frequency.load_words(listaAuto)
 
 #adiciona nomes próprios ao dicionario
 spell.word_frequency.load_words(['Douglas', 'Felippe', 'Stefanio', 'Amélia', 'Miguel', 'Arthur', 'Davi', 'Gabriel', 'Maria Eduarda', 'Alice', 'Heitor', 'Pedro', 'Laura', 'Douglas', 'Joaquim', 'Queiroz'])
