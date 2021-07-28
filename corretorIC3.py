@@ -17,14 +17,22 @@ for letter in str:
         if char:
             substring.append(char)
             char = ""
-        num += letter
+        if letter == "+":
+            num += "5"
+        else:
+            num += letter
     else:
         if num:
             substring.append(num)
             num = ""
-        char += letter
+        if letter == "+":
+            char += "5"
+        else:
+            char += letter
+
 substring.append(char) if char else substring.append(num)
-#print(substring)
+
+print(substring)
 
 str2 = ' '.join(substring)   #transforma a lista substring em string str2
 
@@ -40,7 +48,7 @@ spell = SpellChecker(language='pt')     #cria objeto do tipo SpellChecker em por
 spell.word_frequency.load_words(['Douglas', 'Felippe', 'Stefanio', 'Amélia', 'Miguel', 'Arthur', 'Davi', 'Gabriel', 'Maria Eduarda', 'Alice', 'Heitor', 'Pedro', 'Laura', 'Douglas', 'Joaquim', 'Queiroz'])
 
 #adiciona abreviacoes
-spell.word_frequency.load_words(['mp', 'fb', 'jr', 'hd', 'já', 'Várias', 'várias', 'máxima', 'presídio', 'peço', 'cabíveis', 'denúncia', 'amedrontando', 'hilux', 'niterói', 'oceânica', 'tráfico'])
+spell.word_frequency.load_words(['demais','mp', 'fb', 'jr', 'hd', 'já', 'Várias', 'várias', 'máxima', 'presídio', 'peço', 'cabíveis', 'denúncia', 'amedrontando', 'hilux', 'niterói', 'oceânica', 'tráfico'])
 
 #abreviacoes = ["cv", "mp", "bpm", "av", "melissa", "sao", "Melícia", "mto", "Melissa", "oq", "d+", "Pfv", "q", "ñ"]
 #significados = ["comando vermelho", "ministério público", "batalhão da polícia militar", "avenida", "milícia", "são", "milícia", "muito", "milícia", "o que", "demais", "por favor", "que", "não"]
@@ -58,7 +66,7 @@ with open('internetes.txt', encoding='utf-8-sig') as arq_csv:   # verificar se o
 with open('seguranca.txt', encoding='utf-8-sig') as arq_csv2:   # verificar se o arquivo .txt esta sem espacos em branco!
     table2 = csv.reader(arq_csv2, delimiter=',')  # lendo a tabela    
     
-    abr = {}  # Criando dicionário    
+    #abr = {}  # Criando dicionário    
     
     for row in table2:  # Iterando sobre ele
         abr[row[0]] = row[1]        
@@ -74,7 +82,7 @@ for word in lista:
         if i in word:
             lista[lista.index(word)] = ''.join(sorted(set(word), key=word.index))
 
-
+#print(abr.keys())
 #print (spell.known(misspelled))    # Returns those words that are in the word frequency list
 #print (spell.unknown(misspelled))  # Returns those words that are not in the frequency list
 
