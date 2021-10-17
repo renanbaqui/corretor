@@ -1,6 +1,5 @@
 # esta funcionando incorretamente, deixa duas linhas ao inves de uma
 
-
 linhas_vistas = set()#Conjuntos de linhas já vistas.
 arq_out = open("D:/relatos_revisados_S_Rep.txt", "w", encoding='utf8') #Abre o arquivo de escrita
 
