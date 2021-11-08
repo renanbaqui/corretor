@@ -1,0 +1,933 @@
+Adamo
+AC2000
+CRX
+GT
+GT-2
+GTL
+GTM
+GTM C2
+
+Agrale
+Marruá
+
+Aldee
+GT 1.8 Street 
+Spyder
+
+Alfa Romeo
+Alfa Romeo 2000 
+2300 
+2300 Ex. 
+2300 B
+2300 Ti
+2300 Rio 
+2300 SL
+2300 Ti 4 
+2300 Álcool Ti 
+145
+155
+164
+156
+147
+166
+GTV & Spider
+
+Americar
+XKCoupe 
+XK120
+Cobra
+GT40
+
+Avallone
+A 11 Avallone 
+TF 6R 
+Fusca Cabriolet 
+Limosine Monza 
+A 52 
+Avallone Presidencial 
+
+Audi
+A3 
+A3 Sedan 
+Q3 
+TT
+A1
+R8
+A4 
+A5
+A6
+A7
+Q5
+Q7
+Senna
+
+Aurora
+122 C 
+
+Bianco
+Bianco S 
+Bianco Série 2
+Bianco Tarpan 
+Bianco Tarpan TS 
+
+BMW
+Série 1
+Série 3
+X1 
+X3 
+X4 
+Z3
+Z4
+Série 2
+Série 4
+Série 5
+Série 7
+Série 8
+X2
+X5
+X6
+M2 Competition
+M3 Sedã
+M4 Coupé
+M5
+X6M
+i3
+
+Bola
+Fera XK 
+
+Brasinca
+4200 GT
+4200 GTS
+
+CBP
+Super 90 
+Spyder 550
+911 Carrera 
+911 Carrera 
+911 Carrera conversível
+MG MGA 
+EJ 1 
+Formigão
+
+CBT
+CBT Javali 4x2
+CBT Javali 4x4 
+CBT Javali 4x4 (turbo)
+
+Chamonix
+Roadster 356
+Speedster 356
+Spyder 550 R
+Spyder 550 S
+Spyder 550 S L.M.
+Super 90
+
+Chery
+Arrizzo 5
+Celer
+QQ 
+Tiggo 2 
+Tiggo 7 
+Face 
+Cielo 
+Arrizo 5E
+
+Chevrolet
+3100/Brasil 
+A-10
+A-20 
+Alvorada 
+Amazona 
+Astra 
+Beretta
+Blazer 
+Bonanza 
+Bolt 
+C-10 
+C-14 
+C-1416 
+C-15 
+C-20 
+Camaro 
+Caravan 
+Celta 
+Chevette Hatch 
+Chevette 
+Chevette Junior
+Chevy 500 
+Cobalt 
+Corisco
+Corsa 
+Corsa Sedan / Classic 
+Corsa Pick-up 
+Corsa Wagon 
+Cruze 
+Cruze Sport6 
+D-10 
+D-20 
+Ipanema 
+Kadett 
+Kadett Conversível 
+Marajó 
+Meriva 
+Montana 
+Monza Sedan
+Monza Hatch
+Omega
+Onix
+Opala Coupe
+Opala
+Prisma
+Silverado
+S10
+Spin
+Suprema
+TrailBlazer
+Vectra
+Vectra GT
+Veraneio 
+Volt
+Zafira
+Equinox
+SS10
+Caprice
+Malibu 
+
+Chrysler
+Dodge
+1800
+Charger
+Dakota 
+Dart Sedã 
+Dart Coupe 
+LeBaron 
+Magnum 
+Polara
+Journey
+Durango
+Town & Country
+300
+PT Cruiser
+Caravan/Grand Caravan
+Stratus
+
+Citroën
+Aircross
+C3
+C4 Cactus
+Xsara Picasso
+DS3
+Xantia
+C5 2001
+C4 Pallas
+C4 Lounge
+DS5
+C3 Picasso
+XM
+ZX
+
+Concorde
+
+Corona
+Dardo F 1.3 
+Dardo F 1.5
+
+Cross Lander
+CL-244 
+CL-330 
+
+Daewoo
+Espero
+Nubira
+Lanos
+Leganza
+Super Salon
+Tico
+Prince
+
+Daihatsu
+Cuore
+Applause
+Terios
+Feroza
+
+Dankar
+Squalo
+Julia
+
+DKW-Vemag
+Belcar
+Caiçara
+Camioneta
+Candango
+F-91 Universal
+Fissore
+Grande
+Pracinha 
+Vemaguet
+
+Edra
+Rancho PK
+Rancho TT
+GT e GT-R
+Mog
+Aris
+
+Emis
+Art
+
+Engerauto
+Topazzio
+
+Engesa
+EE-12 
+EE-34
+4
+
+Envemo
+Camper
+Super 90 
+Super 90 Cabriolet
+
+Envesa
+Envesa 4
+
+Effa
+Effa M100
+
+Farus
+ML-929
+TS
+Beta
+Beta Cabriolet
+Quadro
+
+Fiat
+147 
+Argo 
+Brava 
+Bravo 
+City
+Doblò 
+Ducato
+Elba
+Fiorino
+Idea
+Linea
+Marea
+Marea Weekend 
+Mobi
+Oggi 
+Palio 
+Weekend/Palio Weekend 
+Panorama
+Prêmio
+Punto
+Siena/Grand Siena
+Spazio
+Stilo
+Strada
+Tempra 
+Tipo 
+Toro 
+Uno Mille 
+Coupé
+500 
+
+FNM
+2000 JK 
+2150 JK 
+Onça 
+Fúria GT 
+
+Ford
+Belina 
+Belina II 
+Corcel 
+Corcel II 
+Courier 
+Courier Van
+Del Rey 
+Del Rey Scala 
+EcoSport 
+Escort 
+Escort SW 
+Escort Conversível 
+F-100 
+F-1000 
+F-250 
+F-75 
+Fiesta
+Focus 
+Jeep 
+Galaxie 500 
+Galaxie 
+Ka 
+Ka+ 
+LTD 
+LTD Landau/Landau
+Maverick
+Mustang
+Mondeo
+Pampa
+Ranger
+Royale
+Rural
+Verona 
+Versailles
+Fusion
+Edge
+Taurus
+Crown Victoria
+
+Furglass
+Furglaine 
+
+Geely
+EC7
+GC2
+
+Glaspac
+Cobra 
+
+GMC
+3500 HD 
+
+Grancar
+Futura 
+
+Gurgel
+Ipanema 
+Bugato 
+Xavante XT 
+Xavante XTR 
+Xavante XTC 
+X-10 
+X-20 
+X-12 
+Tocantins 
+X-15 
+G-15 
+Itaipu E-150
+Itaipu E-400 
+Itaipu E-500 
+G-800 
+XEF 
+Carajás 
+BR-800 
+BR-800 Van
+Motomachine 
+Supermini 
+
+Hofstetter
+Hofstetter 
+
+Honda
+Accord 
+City 
+Civic 
+Fit 
+CR-V 
+HR-V 
+WR-V 
+NSX
+
+Hummer
+H1
+H2
+H3
+
+Hyundai
+Creta
+HB20 
+HB20S 
+HB20X 
+ix20 
+ix35 
+Tucson 
+Azera 
+Veloster 
+Santa Fe 
+Veracruz
+Genesis
+Elantra 
+Equus
+Sonata 
+
+IBAP
+Democrata
+
+Inbrave
+Swing 
+
+Infiniti
+FX35
+QX56
+FX50
+J30
+
+Ita
+Lassale
+
+JAC
+T5 
+T40 
+JAC J3 
+JAC J3 
+JAC J6 
+JAC J5 
+JAC J2 
+iEV 20
+iEV 60
+iEV 40
+T80
+T50
+T60
+T6
+
+Jaguar
+S-Type
+F -Pace
+
+Jeep
+Compass
+Renegade 
+Cherokee
+Grand Cherokee
+Wrangler
+
+JPX
+Montez 
+Montez Pick-up 
+
+Kia
+Kia Picanto 
+Kia Cadenza 
+Kia Cerato 
+Kia Cerato 
+Kia Sportage
+Kia Carens
+Kia Sorento
+Kia Carnival
+Kia Bongo
+Kia Mohave
+Kia Soul
+Kia Optima
+Kia Quoris
+Kia Stinger
+Kia Rio
+
+Lada
+VAZ- 2105 (Laika) 
+VAZ- 2104 (Laika Station Wagon) 
+VAZ- 2108 (Samara)
+VAZ- 2121 (Niva)
+
+L'Automobile/L'Auto Craft
+Ventura 
+Ventura Conversível
+Ventura II 
+Sabre
+
+Lafer
+MP TD 
+MP LL 
+MP TI 
+MP TX 
+
+Land Rover
+Range Rover Evoque
+Range Rover
+Range Rover Sport
+Defender
+Vogue
+Autobiography
+Range Rover Velar
+Discovery
+
+Lexus
+ES
+LS
+UX
+NX
+RX
+CT
+LC
+NX 300h
+
+LHM
+Phoenix
+Ítala
+
+Lifan
+X60
+320
+530
+X80
+
+Lincoln
+Continental
+Town Car
+
+Lobini
+H1
+R 
+
+Lorena
+Lorena GT
+Lorena RM 
+Lorena GT-L 
+
+Macan
+Gurgel 1200 
+
+Mahindra
+M.O.V. 
+Pick-up 
+Scorpio  
+SUV 
+
+Malzoni
+Malzoni I
+Malzoni II
+Malzoni III
+GT Malzoni 
+GT Malzoni II (Malzoni GTM) 
+GT Malzoni II (Malzoni GTM) Conversível 
+
+Matra Veículos
+Matra Pick-up 
+
+Mazda
+626
+Protegè
+MX-3
+MX-5
+
+Megastar Veículos
+Emme 
+
+Mercedes-Benz
+Classe A 
+Classe C 
+CLC 200 
+GLA 
+CLA
+Classe E
+Classe S
+GLC
+GLE
+GLS
+SLC
+Classe G
+SLK
+Classe GLK
+Classe CLK
+Classe M
+
+MG
+MG550
+MG6
+
+Mini
+Countryman 
+Cooper
+
+Mirage
+Mirage GT
+
+Mitsubishi
+ASX 
+L200 
+Lancer 
+Pajero TR4 
+Pajero 
+Eclipse
+Outlander 
+Eclipse Cross 
+
+Miura
+Sport 
+Sport II 
+MTS 
+Targa 
+Spider 
+Kabrio 
+Saga 
+787 
+X8 
+Saga II 
+Top Sport 
+X11 
+BG-Truck CD 
+
+Monarca
+Monarca 
+
+NBM
+Jornada 
+Spirit 
+
+Nissan
+Frontier 
+Grand Livina 
+Kicks 
+Livina 
+March 
+Sentra 
+Versa 
+Leaf 
+Tiida 
+
+Nobre
+Alpini G 59 Grand Prix
+
+PAG
+Dacon
+828
+Nick 
+
+Peugeot
+206 
+504 Pickup Diesel
+206 SW
+207 
+207 Passion
+207 SW 
+208 
+2008 
+Hoggar 
+408 
+3008 
+5008 
+307 
+405 
+205 
+106 
+306 
+406 
+407 
+RCZ 
+2008 
+
+Polystilo
+WM II
+Savana
+
+Puma
+GT (DKW)
+GT4R 
+Puma P8 
+Puma Spyder
+GTE 
+GTS 
+GTB 
+GTB 
+GTB 
+GTB 
+P-018 
+GTC 
+GTI 
+AM1 
+AM2 
+AM3 
+AM4 
+AMV 
+Puma 7900 
+
+Py Motors
+Equus
+
+Ragge
+Califórnia 
+
+Renault
+Captur
+Clio 
+Clio Sedan 
+Duster 
+Duster Oroch
+Kwid
+Logan
+Mégane Grand Tour 
+Mégane Sedan
+Sandero 
+Scénic 
+Fluence 
+Symbol 
+19 
+Twingo
+Zoe 
+Twizy
+
+Romi
+Isetta 
+
+Saab
+9000 
+
+Simca
+Alvorada 
+Chambord 
+Emi-Sul 
+Esplanada 
+GTX 
+Jangada 
+Presidence 
+Rally 
+Regente 
+Tufão 
+
+Santa Matilde
+SM Hatch 
+SM Conversível
+SM Coupé 
+
+San Vito
+
+SEAT
+Córdoba
+Ibiza
+Inca
+Vario
+
+Smart
+Fortwo
+
+STV
+Uirapuru Berlineta
+Uirapuru Cabriolet
+
+Spiller Mattei
+Gringo
+
+SR Veículos Especiais
+Ibiza
+Max Sport
+Max Sport 2
+Deserter 2
+Deserter Rally
+Deserter XK
+Country XK
+
+Subaru
+Impreza
+Forester
+WRX
+Outback
+XV
+Legacy
+
+Suzuki
+Jimny
+Grand Vitara 
+Vitara 
+Suzuki SX4 S-Cross 
+
+SsangYong
+XLV
+Tivoli
+Actyon
+Actyon Sports
+Korando
+Kyron
+Rexton
+
+TAC Motors
+Stark
+Tanger
+Lucena
+
+Toyota
+Bandeirante
+Camry
+Corolla 
+Etios 
+Fielder 
+Hilux 
+Prius 
+RAV4 
+SW4 
+Yaris 
+Previa 
+
+Trimax
+Audax 
+
+Troller
+Pantanal
+T4
+
+Villa
+Villa GT
+
+Volvo
+XC40
+XC60
+XC90
+V40
+V60
+S60
+S90
+850
+C30
+V50
+XC70
+V50
+C70
+
+Volkswagen
+1600 
+Apollo
+Amarok 
+Brasília
+Fox 
+Fusca 
+Gol 
+Golf 
+Jetta 
+Karmann Ghia 
+Karmann Ghia Cabriolet 
+Karmann Ghia TC 
+Kombi 
+Logus 
+Parati 
+Passat 
+Pointer 
+Polo 
+Polo Classic 
+Polo Sedan 
+Quantum 
+Santana 
+Saveiro 
+SP1 
+SP2 
+TL 
+Up! 
+Variant 
+Variant II
+Virtus 
+Voyage
+Bora 
+T-Cross
+Tiguan
+Touareg
+
+WMV
+WMV
+
+Willys Overland
+1093
+Aero
+Dauphine
+Gordini
+Interlagos
+Itamaraty
+Itamaraty Executivo
+Jeep CJ-5 
+Jeep CJ-6
+Jeep Pick-up 
+Rural 
+Teimoso 
+Capeta
