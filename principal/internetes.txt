@@ -351,11 +351,11 @@ esqêci,esqueci,
 voley,vôlei,
 kda,cada,
 kinta,quinta,
-umiliá,humilhar,
 eh,é,
 pros,para os
 sr,senhor
 sra,senhora
 vcs,vocês
-mals,maus
-app,aplicativo
+pfv,por favor,
+sao,são,
+nao,não,
