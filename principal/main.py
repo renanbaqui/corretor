@@ -197,4 +197,4 @@ for word in lista:
 
     
     
-#print(palavrasMaiusculas)
+#print(palavrasMaiusculas) #implementacao de lista de palavras maiusculas
