@@ -2,6 +2,7 @@
 [![Pypi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://pypi.org/)
 
 Requirements:
+
 pyspellchecker
 https://pypi.org/project/pyspellchecker/
 
